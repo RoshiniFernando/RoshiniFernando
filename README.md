@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinifernando&label=Profile%20views&color=0e75b6&style=flat" alt="roshinifernando" /> </p>
 
-- 🌱 I’m currently learning **Kaggle ML courses, Deep Learning with AWS**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and MLOPs**
 
 - 📝 I regularly write articles on [https://datascienceexpedition.medium.com/](https://datascienceexpedition.medium.com/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **roshinifer333@gmail.com**
 
-- ⚡ Fun fact **I don't like chocolate 🍫**
+- ⚡ Fun fact **I don't like chocolates 🍫**
 <br/>
 <h3 align="left">Connect with me:</h3>
 
